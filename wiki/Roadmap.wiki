@@ -1,0 +1,7 @@
+#labels Featured
+#These are the particular goals we would like to reach
+
+= Details =
+<ul>
+  <li>Basic Design.</li>
+</ul>
